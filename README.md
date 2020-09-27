@@ -48,9 +48,6 @@ $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryp
 ... xhr.open( "GET", "https://phpmailer-url/index.php?sendto=" + ...
 </br></br> 12. In your CMD, type `npm start` and test the app.
 </br></br>
-   <video width="100%" height="100%" controls autoplay muted>
-      <source src="https://github.com/zaids2641/react-gmailsmtp-phpmailer/tree/master/public/video/rect-php email.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-   </video>
+  ![Preview Image](/video/rect-php email.mp4) 
 
 Enjoy!!!
