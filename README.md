@@ -49,7 +49,7 @@ $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryp
 </br></br> 12. In your CMD, type `npm start` and test the app.
 </br></br>
   
-  ![Preview Image](/rect-php-email.gif)
+  ![Preview Image](/public/rect-php-email.gif)
 
 
 Enjoy!!!
