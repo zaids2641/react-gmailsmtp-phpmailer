@@ -33,7 +33,7 @@ if($_SERVER['HTTP_REFERER'] === "http://localhost:3000/"){
             $mail->Port       = 587;
 
             // Recipients
-            $mail->setFrom($email, 'Contact From My Portfolio');
+            $mail->setFrom($email, 'Contact From PHPMailer');
             $mail->addAddress('@gmail.com');     // Add a recipient (Your gmail address)
             $mail->addReplyTo($email, $name);
 
